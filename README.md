@@ -1,4 +1,4 @@
-# MERN
+# REACT APP with DATA-TABLE
 An example of dataTable on React APP exporting / filtering / printing
 
 ## STARTING
